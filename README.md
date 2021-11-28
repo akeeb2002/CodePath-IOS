@@ -1,7 +1,7 @@
 ## Hello World
 
 ### App Description
-An IOS App that displays some text and prints out "hello" everytime one pressed on the button.
+An IOS App that displays some text and changes its color with a push of a button. It also prints out "hello" to the console everytime the button is clicked.
 
 ### App Walk-though
 ![Pre](https://user-images.githubusercontent.com/90944924/143724871-444dd0a4-2f61-4887-a771-b068899ff200.gif)
@@ -12,7 +12,7 @@ An IOS App that displays some text and prints out "hello" everytime one pressed 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
-- [x] 3. User can tap a button to print out "hello" to the console.
+- [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
 - [ ] 1. User can tap a button to change the color of the background view.
