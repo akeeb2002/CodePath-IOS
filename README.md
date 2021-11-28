@@ -1,7 +1,7 @@
 ## Hello World
 
 ### App Description
-An IOS App that displays some text and changes its color with a push of a button. It also prints out "hello" to the console everytime the button is clicked.
+An IOS App that displays some text and changes its color with the push of a button. It also prints out "hello" to the console everytime the button is clicked.
 
 ### App Walk-though
 ![Pre](https://user-images.githubusercontent.com/90944924/143724871-444dd0a4-2f61-4887-a771-b068899ff200.gif)
