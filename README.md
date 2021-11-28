@@ -1,7 +1,7 @@
 ## Hello World
 
 ### App Description
-`TODO://` Add app description
+An IOS App that displays some text and prints out "hello" everytime one pressed on the button.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
