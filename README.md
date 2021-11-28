@@ -6,7 +6,6 @@ An IOS App that displays some text and prints out "hello" everytime one pressed 
 ### App Walk-though
 ![Pre](https://user-images.githubusercontent.com/90944924/143724871-444dd0a4-2f61-4887-a771-b068899ff200.gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
 
 
 
