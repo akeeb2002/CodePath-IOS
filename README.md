@@ -13,7 +13,7 @@ An IOS App that displays some text and prints out "hello" everytime one pressed 
 ### Required User Stories
 - [ ] 1. User sees custom text in a label - Hello from {name}!
 - [ ] 2. User see's custom background color.
-- [ ] 3. User can tap a button to print out "hello".
+- [ ] 3. User can tap a button to print out "hello" to the console.
 
 ### Optional User Stories
 - [ ] 1. User can tap a button to change the color of the background view.
